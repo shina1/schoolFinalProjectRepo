@@ -1,3 +1,18 @@
+/* ################# COLOR CODES ########################## */
+:root{
+  --main1:#fb1115;
+  --main2: #e0aaab;
+  --main3:#a7a5a4;
+  --main4:#14120f;
+  --main5:#605550;
+  --main6:#a58878;
+  --mainFacebook:#3b5998;
+  --mainTwitter: #55acee;
+  --mainInstagram:#3f729b;
+}
+
+
+
 /* ########## STYLES FOR SERVICES ################### */
 *{
   margin: 0;
